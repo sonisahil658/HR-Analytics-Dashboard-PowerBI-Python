@@ -55,7 +55,7 @@ Data Collection → Data Cleaning (Python) → Status Derivation → Attrition C
 
 ## Dashboard Highlights
 
-![Uploading Screenshot 2026-06-12 023511.png…]()
+<img width="1329" height="746" alt="Screenshot 2026-06-12 023511" src="https://github.com/user-attachments/assets/230d3fa8-c510-4073-a7a6-8be0e8d2ace3" />
 
 
 - Total Employees, Active Employees, Terminated Count, Attrition Rate (KPI Cards)
