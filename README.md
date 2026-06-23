@@ -1,19 +1,19 @@
 # HR-Analytics-Dashboard-PowerBI-Python
 Complete end-to-end Data Analytics project analyzing HR workforce data using Python and Power BI
 
-Project Overview
+# Project Overview
 
 This project analyzes HR data of 22,213 employees across 13 departments and 7 US states to understand workforce composition, employee attrition patterns, gender and race diversity, and department-level performance. The analysis was performed using Python (Pandas) for data cleaning and Power BI for interactive dashboard development to generate actionable HR insights and support data-driven retention decisions.
 
 
-Business Problem Statement
+# Business Problem Statement
 
 Organizations face increasing challenges in managing employee retention, identifying high-risk departments, and understanding workforce diversity. A high attrition rate directly impacts productivity, recruitment costs, and team morale.
 
 This project aims to analyze HR workforce data and identify patterns in employee termination, department-level attrition risk, gender and race distribution, location-based workforce trends, and job title turnover rates — helping HR leadership make informed decisions to improve employee retention and engagement.
 
 
-Project Deliverables
+# Project Deliverables
 
 1. Data Preparation (Python)
 
@@ -32,9 +32,9 @@ Document key findings, attrition risk analysis, and recommendations derived from
 Maintain all project files including Python scripts, Power BI dashboard, dataset, insights report, and project documentation.
 
 
-Tools & Technologies
+# Tools & Technologies
 
-
+Excel 
 Python (Pandas)
 Power BI Desktop
 Jupyter Notebook / Python Script
@@ -42,12 +42,14 @@ GitHub
 
 
 
-Project Workflow
+# Project Workflow
 
 Data Collection → Data Cleaning (Python) → Status Derivation → Attrition Calculation → Dashboard Development (Power BI) → Insight Generation → Business Recommendations
 
 
-Dashboard Highlights
+# Dashboard Highlights
+
+<img width="1329" height="746" alt="Screenshot 2026-06-12 023511" src="https://github.com/user-attachments/assets/cd6b204a-76df-43c6-87d3-fc4b6ce18b79" />
 
 
 Total Employees, Active Employees, Terminated Count, Attrition Rate (KPI Cards)
@@ -61,7 +63,7 @@ Active vs Terminated by Department — Side-by-side comparison bar chart
 
 
 
-Key Insights
+# Key Insights
 
 
 The overall attrition rate is 17.69% — above the industry benchmark of 15%.
@@ -74,7 +76,7 @@ Marketing is the healthiest department with the lowest attrition at just 14.6%.
 
 
 
-Business Recommendations
+# Business Recommendations
 
 
 Conduct immediate retention interviews and compensation benchmarking for the Auditing and Legal departments.
