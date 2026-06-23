@@ -88,6 +88,6 @@ Conduct focused engagement surveys for the Native Hawaiian / Pacific Islander em
 
 
 
-Conclusion
+# Conclusion
 
 This project provides a comprehensive analysis of a company's HR workforce using Python-based data preparation and Power BI visualization. The findings reveal critical attrition risks in specific departments and job roles, highlight diversity patterns across gender and race, and demonstrate the retention advantage of remote work — helping HR leadership prioritize resources and build a stronger, more engaged workforce.
